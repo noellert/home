@@ -1,0 +1,39 @@
+# Site settings
+title: Matthew Noellert 倪志宏
+description: 'Me, Modern China, and Digital History'
+url: 'https://noellert.github.io'
+baseurl: '/home/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Matthew Noellert'
+  email: matthew-noellert@uiowa.edu
+  twitter_username: MNoellert
+  facebook_username: matt.noellert
+  github_username:  noellert
+  linkedin_username:  mnoellert
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
