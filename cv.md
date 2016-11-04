@@ -18,7 +18,7 @@ B.A., 2006, University of Michigan
 
 Assistant Professor of History and Digital Humanities, Department of History, University of Iowa (2016-present)
 
-Postdoctoral Research Fellow, Shanxi University (2014-present)
+Postdoctoral Research Fellow, Shanxi University (2014-2016)
 
 ## HONORS, AWARDS, FELLOWSHIPS
 Hong Kong PhD Fellowship Scheme, Research Grants Council of Hong Kong. 2010-2014  
