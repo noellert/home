@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-[Download full CV here]({{ site.baseurl }}/assets/noellert-cv_201610_2.docx)
+[Download full CV here]({{ site.baseurl }}/assets/noellert-cv_201611.docx)
 
 (ABRIDGED)
 
@@ -125,4 +125,4 @@ Beyond Fanshen: New Perspectives on Communist Land Reform from Northeast China, 
 - Eagle Scout
 - Wu Style Tai Chi Chuan, level 3 disciple
 
-(Current as of October 2016)
+(Current as of November 2016)
