@@ -17,4 +17,4 @@ I am currently teaching an undergraduate Introduction to the History Major/Digit
 [1]:{{ site.baseurl }}/assets/Shanxi - A New History for a New China syllabus_12.docx
 [2]:{{ site.baseurl }}/assets/Big Data and New Methods in Chinese Social History_12.docx
 [3]:{{ site.baseurl }}/assets/Shanxi University Spring 2015 v6.docx
-[4]:{{ site.baseurl }}/assets/hist2151-DH-syllabus_14.docx
+[4]:{{ site.baseurl }}/assets/hist2151-DH-syllabus_15.docx

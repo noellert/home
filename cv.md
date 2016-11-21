@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-[Download full CV here]({{ site.baseurl }}/assets/noellert-cv_201611.docx)
+[Download full CV here]({{ site.baseurl }}/assets/noellert-cv_201611_2.docx)
 
 (ABRIDGED)
 
@@ -51,7 +51,8 @@ Beyond Fanshen: New Perspectives on Communist Land Reform from Northeast China, 
 "Equality and Growth: Changes in the Composition and Distribution of Wealth in Rural China, 1946-1966."
 
 - Co-authored with Xing Long, Hu Yingze, and James Z. Lee.
-- Presented at the international meeting, "Rural Collectivization in China and Eastern Europe: Equality and Growth," organized by the Shanxi University Research Center for Chinese Social History and the HKUST School of Humanities and Social Science, Taiyuan, China, 5-6 August 2016.  
+- Revised version presented at session, “Material Antecedents of War and Revolution,” Annual Meeting of the Social Science History Association, Chicago, IL. 17-20 November 2016.
+- First presented at the international meeting, "Rural Collectivization in China and Eastern Europe: Equality and Growth," organized by the Shanxi University Research Center for Chinese Social History and the HKUST School of Humanities and Social Science, Taiyuan, China, 5-6 August 2016.  
 
 "Education, Class and Marriage in Rural Shanxi, China in the Mid-20th Century."
 
