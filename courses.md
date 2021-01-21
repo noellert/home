@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Courses
-permalink: /courses/
+title: Teaching
+permalink: /teaching/
 ---
 
 While a Postdoc at the Research Center for Chinese Social History at Shanxi University, I co-taught three graduate-level courses on Chinese quantitative history concepts and methods:
