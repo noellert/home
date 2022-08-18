@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-[Download full CV here]({{ site.baseurl }}/assets/Noellert-cv_20220816.pdf)
+[Download full CV here](assets/Noellert-cv_20220816.pdf)
 
 (ABRIDGED)
 
