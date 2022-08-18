@@ -6,7 +6,7 @@ permalink: /china/
 
 In high school I read some popular books that sparked my interest in Chinese philosophy and religion. Once I decided to start learning Mandarin Chinese halfway through my undergraduate career, I felt like a fish in water. After finishing my B.A. I spent most of the next decade living in East Asia - 1 year in Japan, 4 years in Hong Kong, and 3 years in mainland China. Through studying the text of the Zhuangzi for my M.A., I discovered how important the history of the book's compilation was for understanding its meaning, and thus realized how the past plays such a pervasive role in all of Chinese society, from family ancestors to economic organization. While living in East Asia I also gained a deep respect for Chinese social organization. I don't think any other society in the world has maintained similar levels of culture, diversity, and hierarchy at such a large scale or for such a long time.
 
-# Favorites:
+## Favorites:
 
 [The Lee-Campbell Research Group][1]
 
