@@ -30,13 +30,13 @@ Analysis and Interpretation in Quantitative Historical Social Science (Co-instru
 Big Data and New Methods in Chinese Social History: Collection, Transcription, Analysis (Co-instructor, in Chinese) [(syllabus)][9]  
 A New History for a New China, 1700-2000: Comparative Perspectives on Inequality (Co-instructor) [(syllabus)][10]
 
-[1]:/assets/経済史入門-22夏_syllabus.docx  
-[2]:/assets/経済史B-sp22 syllabus.docx  
-[3]:/assets/東洋経済史-21fw_syllabus_10.docx  
-[4]:/assets/HIST1602%20F19%20China%20Civ%2017-21c%20syllabus_2.docx  
-[5]:/assets/hist3652%20Sp20%20syllabus_twentieth%20century%20China_3.docx  
-[6]:/assets/Hist2195%20Sp20%20syllabus_DH workshop.docx  
-[7]:/assets/hist6002%20Sp19%20DH%20methods%20syllabus_2.docx  
-[8]:/assets/Shanxi%20University%20Spring%202015%20v6.docx  
-[9]:/assets/Big%20Data%20and%20New%20Methods%20in%20Chinese%20Social%20History_12.docx  
-[10]:/assets/Shanxi%20-%20A%20New%20History%20for%20a%20New%20China%20syllabus_12.docx
+[1]:assets/経済史入門-22夏_syllabus.docx  
+[2]:assets/経済史B-sp22 syllabus.docx  
+[3]:assets/東洋経済史-21fw_syllabus_10.docx  
+[4]:assets/HIST1602%20F19%20China%20Civ%2017-21c%20syllabus_2.docx  
+[5]:assets/hist3652%20Sp20%20syllabus_twentieth%20century%20China_3.docx  
+[6]:assets/Hist2195%20Sp20%20syllabus_DH workshop.docx  
+[7]:assets/hist6002%20Sp19%20DH%20methods%20syllabus_2.docx  
+[8]:assets/Shanxi%20University%20Spring%202015%20v6.docx  
+[9]:assets/Big%20Data%20and%20New%20Methods%20in%20Chinese%20Social%20History_12.docx  
+[10]:assets/Shanxi%20-%20A%20New%20History%20for%20a%20New%20China%20syllabus_12.docx
