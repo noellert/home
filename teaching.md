@@ -33,10 +33,10 @@ A New History for a New China, 1700-2000: Comparative Perspectives on Inequality
 [1]:{{ site.baseurl }}/assets/経済史入門-22夏_syllabus.docx  
 [2]:{{ site.baseurl }}/assets/経済史B-sp22 syllabus.docx  
 [3]:{{ site.baseurl }}/assets/東洋経済史-21fw_syllabus_10.docx  
-[4]:{{ site.baseurl }}/assets/HIST1602 F19 China Civ 17-21c syllabus_2.docx  
-[5]:{{ site.baseurl }}/assets/hist3652 Sp20 syllabus_twentieth century China_3.docx  
-[6]:{{ site.baseurl }}/assets/Hist2195 Sp20 syllabus_DH workshop.docx  
-[7]:{{ site.baseurl }}/assets/hist6002 Sp19 DH methods syllabus_2.docx  
-[8]:{{ site.baseurl }}/assets/Shanxi University Spring 2015 v6.docx  
-[9]:{{ site.baseurl }}/assets/Big Data and New Methods in Chinese Social History_12.docx  
-[10]:{{ site.baseurl }}/assets/Shanxi - A New History for a New China syllabus_12.docx
+[4]:{{ site.baseurl }}/assets/HIST1602%20F19%20China%20Civ%2017-21c%20syllabus_2.docx  
+[5]:{{ site.baseurl }}/assets/hist3652%20Sp20%20syllabus_twentieth%20century%20China_3.docx  
+[6]:{{ site.baseurl }}/assets/Hist2195%20Sp20%20syllabus_DH workshop.docx  
+[7]:{{ site.baseurl }}/assets/hist6002%20Sp19%20DH%20methods%20syllabus_2.docx  
+[8]:{{ site.baseurl }}/assets/Shanxi%20University%20Spring%202015%20v6.docx  
+[9]:{{ site.baseurl }}/assets/Big%20Data%20and%20New%20Methods%20in%20Chinese%20Social%20History_12.docx  
+[10]:{{ site.baseurl }}/assets/Shanxi%20-%20A%20New%20History%20for%20a%20New%20China%20syllabus_12.docx
