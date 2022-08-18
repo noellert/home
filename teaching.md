@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /courses/
+permalink: /teaching/
 ---
 
 I enjoy teaching because it is an opportunity to try to explain my ideas to a wide vareity of normal people (college students), and to try to convince them to devote their lives to studying Chinese history (or at least see the world in new ways). I believe teaching requires the highest level of knowledge - from knowing, to understanding, to helping others understand. Insofar as it tests my intellect I find it rather rewarding, but whether or not my students find it rewarding or not is another story.
