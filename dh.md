@@ -1,37 +1,25 @@
 ---
 layout: page
-title: Digital History
+title: Economic History
 permalink: /dh/
 ---
 
-My style of digital history follows the traditions of quantitative history. I always begin with systematic, primary records of individuals and households, and use these basic units to reconstruct "from below" social histories of entire communities. I primarily employ textual analysis, spatial analysis, and elementary statistical analysis in my research.
+My current position at Hitotsubashi Univeristy is Asian Economic Historian （東洋経済史）. In my mind, Asia includes over half of the world, Economy includes all human social institutions and organization, and History exists in both the past and present. I am interested in most subjects that fall within these bounds, from human evolution to AI, but I am most accustomed to studying social phenomenon using the tools of quantitative history. I always begin with systematic, primary records of individuals and households, and use these basic units to reconstruct "from below" social and economic histories of entire communities. I primarily employ textual analysis, spatial analysis, and elementary statistical analysis in my research.
 
 # Favorites:
 
 [The Programming Historian][1]
 
-[Writing History in the Digital Age][2] (Dougherty and Nawrotzki 2013)
+[R Project for Statistical Computing][2]
 
-[Hacking the Academy: New Approaches to Scholarship and Teaching from Digital Humanities][3] (Cohen and Scheinfeldt 2013)
+[QGIS][3]
 
-[UIowa Digital Scholarship and Publishing Studio][5]
-
-[DiRT Digital Research Tools][6]
-
-[QGIS][7]
-
-[Digital Humanities Now][4]
+[The Internet Archive][4]
 
 [1]: http://programminghistorian.org/
 
-[2]: http://hdl.handle.net/2027/spo.12230987.0001.001
+[2]: https://www.r-project.org/
 
-[3]: http://dx.doi.org/10.3998/dh.12172434.0001.001
+[3]: http://www.qgis.org/
 
-[4]: http://digitalhumanitiesnow.org/
-
-[5]: http://www.lib.uiowa.edu/studio/
-
-[6]: http://dirtdirectory.org/
-
-[7]: http://www.qgis.org/
+[4]: https://archive.org/
