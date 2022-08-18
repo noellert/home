@@ -14,10 +14,8 @@ While a student at the U of M I lived in a vegetarian student cooperative, where
 
 More about me:
 
-[Hitotsubashi Faculty Profile][3] 
-
-[researchmap Page][4] (Japan NII researcher database) 
-
+[Hitotsubashi Faculty Profile][3]  
+[researchmap Page][4] (Japan NII researcher database)  
 [Lee-Campbell Group Profile][5] (in Chinese) 
 
 [1]:http://www.wwoof.net/
