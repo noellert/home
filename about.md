@@ -12,8 +12,7 @@ I was born and raised in a small town in southeast Michigan, received my B.A. (A
 
 While a student at the U of M I lived in a vegetarian student cooperative, where I was in charge of food and supply purchasing, and networked with farmers at the local market. After finishing my M.A. I joined [World Wide Opportunities on Organic Farms (WWOOF)][1] and spent a year working on farms and learning Japanese in rural Japan. I have also lived and worked on farms in Northeast China, Hong Kong and the U.S.
 
-More about me:
-
+More about me:  
 [Hitotsubashi Faculty Profile][3]  
 [researchmap Page][4] (Japan NII researcher database)  
 [Lee-Campbell Group Profile][5] (in Chinese) 
